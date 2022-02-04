@@ -20,7 +20,7 @@ vous devriez vous attendre à recevoir une réponse de ce type
 
 Malheureusement, ce ne sera pas le cas.
 
-> Attention, nodemon n'est pas installer ce qui veut dire si vous modifiez l'application, celle-ci ne se mettre pas à jour automatiquement
+> Attention, nodemon n'est pas installé ce qui veut dire si vous modifiez l'application, celle-ci ne se mettra pas à jour automatiquement
 
 Bonne compréhension
 
